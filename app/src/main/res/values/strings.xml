@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Stay In Touch(Login)</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="CreateNew">Create New Account</string>
+    <string name="fname"></string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="fNHint">User First Last Name</string>
+    <string name="eHint">Email</string>
+    <string name="pHint">Password</string>
+    <string name="phoneHint">Phone Number</string>
+    <string name="confirmPwdHint">Confirm Password</string>
+    <string name="menuTitle">Menu</string>
+    <string name="update">Update</string>
+    <string name="send">Send</string>
+    <string name="listviewFName">FirstName</string>
+    <string name="listviewLName">LastName</string>
+    <string name="listviewMessage">Message</string>
+    <string name="listviewDate">Date</string>
+    <string name="viewContactName">Contact First and Last Name</string>
+    <string name="textviewName">Name :</string>
+    <string name="textviewvalueName">Name value</string>
+    <string name="textviewContact">Phone #</string>
+    <string name="textviewvalueContact">Phone # value</string>
+    <string name="textviewEmail">Email ID</string>
+    <string name="textviewvalueEmail">Email ID value</string>
+
+</resources>
